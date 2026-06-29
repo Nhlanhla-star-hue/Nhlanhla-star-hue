@@ -75,9 +75,9 @@ Through these exercises, I developed my understanding of software design, object
 
  **Repositories**
 
-🔗 Lab 1 – https://github.com/Nhlanhla-star-hue/lab1
-🔗 Lab 4 – https://github.com/Nhlanhla-star-hue/2558630-lab4-sd
-🔗 Lab 5 – https://github.com/Nhlanhla-star-hue/2558630-lab5-sd
+*🔗 Lab 1 – https://github.com/Nhlanhla-star-hue/lab1
+*🔗 Lab 4 – https://github.com/Nhlanhla-star-hue/2558630-lab4-sd
+*🔗 Lab 5 – https://github.com/Nhlanhla-star-hue/2558630-lab5-sd
 
 ---
 
