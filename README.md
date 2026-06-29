@@ -39,7 +39,7 @@ Not every project is perfect, and that's intentional. Each repository represents
 
 Bachelor of Science
 University of Witwatersrand
-20222-2025
+2022-2025
 
 - Computer Science
 - Computational & Applied Mathematics
@@ -135,7 +135,9 @@ This section will showcase applications and solutions developed during the FNB A
 ---
 
 > Every project in this portfolio represents a challenge I have taken on, a skill I have developed, or a concept I have applied. As I continue learning and growing as a software engineer, this portfolio will continue to evolve alongside my journey.
-> ## 📜 Certifications
+
+
+## 📜 Certifications
 
 I'm committed to continuous learning and regularly complete courses and certifications to strengthen my technical and professional skills.
 
