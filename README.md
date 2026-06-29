@@ -73,6 +73,12 @@ Through these exercises, I developed my understanding of software design, object
 * Code Organization
 * Applying Theory to Practice
 
+ **Repositories**
+
+🔗 Lab 1 – https://github.com/Nhlanhla-star-hue/lab1
+🔗 Lab 4 – https://github.com/Nhlanhla-star-hue/2558630-lab4-sd
+🔗 Lab 5 – https://github.com/Nhlanhla-star-hue/2558630-lab5-sd
+
 ---
 
 ### 💻 SheCodes Basics Add-on Project
@@ -80,6 +86,10 @@ Through these exercises, I developed my understanding of software design, object
 A front-end web development project completed as part of the **SheCodes Basics Add-on** workshop. This project helped strengthen my understanding of HTML, CSS, and JavaScript while introducing responsive design and interactive web development concepts.
 
 Through this project, I gained practical experience building user-friendly web pages and improving my front-end development skills.
+
+**Repository**
+
+🔗 https://github.com/Nhlanhla-star-hue/SheCodesProject
 
 **Skills demonstrated:**
 
@@ -94,6 +104,10 @@ Through this project, I gained practical experience building user-friendly web p
 ### 📜 Constitutional Archive Project
 
 A web-based project developed to organize and present constitutional information in an accessible and structured format. This project allowed me to apply web development principles to a real-world scenario while focusing on usability, information organization, and user experience.
+
+**Repository**
+
+🔗 https://github.com/Nhlanhla-star-hue/Constitutional-Archive-Data-Management-and-Search-Interface
 
 **Skills demonstrated:**
 
